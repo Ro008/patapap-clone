@@ -1,2 +1,2 @@
 # patapap-clone
-#### Project from Colt Steele web development bootcamp
+#### Project from Colt Steele's web development bootcamp
